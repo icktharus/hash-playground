@@ -1,6 +1,6 @@
 # hash-playground
 
-This is just a playground for playing around with hashed and hashing
+This is just a playground for playing around with hashes and hashing
 functions.
 
 ## Prerequisites
